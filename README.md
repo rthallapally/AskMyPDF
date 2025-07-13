@@ -6,7 +6,7 @@ It processes your PDF, stores its content in a vector database (ChromaDB), and a
 
 
 
-🚀 Features
+🚀 FEATURES:
 
 ✅ Upload a PDF file.
 
@@ -18,7 +18,7 @@ It processes your PDF, stores its content in a vector database (ChromaDB), and a
 
 
 
-🛠️ Tech Stack
+🛠️ TECH STACK:
 
 Python
 
@@ -36,7 +36,7 @@ dotenv — For managing secrets
 
 
 
-📂 Setup & Installation:
+📂 SETUP & INSTALLATION:
 
 1️⃣ Clone the repository
 
@@ -60,7 +60,7 @@ Create a .env file in the project root:
 GROQ_API_KEY=your_groq_api_key
 
 
-📄 Run the app
+📄 RUN THE APP:
 
 streamlit run app.py
 
@@ -68,7 +68,7 @@ The app will open in your browser at http://localhost:8501.
 
 
 
-📝 Example Workflow
+📝 EXAMPLE WORKFLOW:
 
 1️⃣ Upload a PDF.
 
@@ -80,7 +80,7 @@ The app will open in your browser at http://localhost:8501.
 
 
 
-📜 Requirements
+📜 REQUIREMENTS:
 
 Python 3.8+
 
