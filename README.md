@@ -44,14 +44,6 @@ cd AskMyPDF
 
 2️⃣ Create & activate a virtual environment
 
-python -m venv env
-
-# On Windows
-env\Scripts\activate
-
-# On Mac/Linux:
-source env/bin/activate
-
 
 3️⃣ Install dependencies
 
